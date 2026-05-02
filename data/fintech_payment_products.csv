@@ -1,0 +1,21 @@
+product_id	product_name	product_category	manufacturing_city	size	color	SKU	product_type	billing_model	risk_tier	list_price	launch_date	has_orders
+197097	Checkout API Starter	Checkout	New York	Starter	Midnight Blue	443100911	API	Monthly	Medium	232.64	6/21/2022	1
+836810	Checkout API Pro	Checkout	San Francisco	Pro	Slate	579203041	API	One-time	Low	75.86	3/14/2024	1
+671127	Embedded Checkout Widget	Checkout	Austin	Standard	Sky	802564893	Widget	Usage-based	Medium	134.57	12/12/2024	1
+301407	Mobile Payment SDK	Checkout	Seattle	Pro	Graphite	977844529	SDK	Monthly	Medium	227.75	11/2/2024	1
+824839	One-Click Pay Module	Checkout	Boston	Standard	Navy	351550470	Module	One-time	Low	225.19	7/14/2023	1
+431332	Fraud Rules Engine	Fraud & Risk	Chicago	Enterprise	Black	670396267	Risk	One-time	High	444.48	10/2/2024	1
+224955	Risk Scoring API	Fraud & Risk	New York	Pro	Gray	342484019	API	One-time	Medium	341.38	1/1/2023	1
+855544	Chargeback Defense	Fraud & Risk	Denver	Standard	Red	817452269	Service	Usage-based	Medium	102.27	8/18/2024	1
+596794	Identity Verification Add-on	Fraud & Risk	Atlanta	Pro	Green	130529936	AddOn	One-time	Low	195.09	7/6/2024	1
+337032	Smart Invoicing Suite	Invoicing	Miami	Standard	White	312766833	Suite	One-time	Medium	146.14	10/5/2022	1
+605001	Recurring Invoice Pro	Invoicing	Dallas	Pro	Blue	536459573	Suite	Usage-based	Low	175.9	9/11/2024	1
+122870	Invoice Payment Link	Invoicing	Phoenix	Starter	Teal	690804586	Link	Usage-based	Low	81.52	2/16/2024	1
+189674	Subscription Billing Core	Subscriptions	San Francisco	Standard	Purple	680333349	Billing	One-time	Medium	370.51	10/9/2024	1
+164295	Usage-Based Billing	Subscriptions	Austin	Pro	Orange	970720822	Billing	One-time	Medium	233.72	3/4/2023	1
+585167	Dunning Recovery Tool	Subscriptions	Boston	Standard	Yellow	588910554	Recovery	Usage-based	Low	100.86	1/27/2022	1
+391478	Instant Payouts	Payouts	New York	Pro	Silver	949933042	Payout	Annual	Medium	159.13	10/31/2023	0
+359165	Cross-Border Payouts	Payouts	Seattle	Enterprise	Gold	818927476	Payout	Monthly	Medium	376.1	4/29/2022	0
+608641	Revenue Analytics Dashboard	Analytics	Chicago	Standard	Blue	232330011	Dashboard	Monthly	Low	64.36	10/31/2024	0
+209521	Payment Performance Insights	Analytics	Denver	Pro	Indigo	584390831	Analytics	One-time	Low	268.35	8/20/2023	0
+865581	Merchant Cash Advance	Financing	Miami	Enterprise	Black	239353717	Funding	One-time	Low	629.34	6/11/2024	0
